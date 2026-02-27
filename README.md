@@ -9,7 +9,6 @@ Jedes Mal, wenn die Seite geladen wird oder man auf den Button klickt, wird ein 
 - Zufällige Anzeige von Zitaten bei jedem Laden der Seite.
 - Button „Noch ein Zitat“, um ein neues Zitat zu generieren.
 - Einfache Struktur mit **PHP**, **HTML** und **CSS**.
-- Ideal als kleines Projekt für Anfänger oder als Inspiration.
 
 ## Installation / Nutzung
 
